@@ -1,6 +1,6 @@
 # Calculadora com HTML, CSS e JavaScript
 
-Sistema de uma calculadora HTML, CSS e JS
+Sistema de uma calculadora.
 
 Mais informações sobre o site:
 
